@@ -1,8 +1,10 @@
 
-
 # whatsapp-bomber
 
-This Python script uses Selenium to automate the process of sending multiple messages to a contact on WhatsApp Web.
+Autor by Abdel 
+----------------
+
+This Python script uses Selenium to automate the process of sending multiple messages to a contact on WhatsApp Web
 
 ## Requirements
 
